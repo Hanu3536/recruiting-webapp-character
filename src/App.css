@@ -28,12 +28,12 @@
 
 .App-section {
   flex: 1 1 0;
-  background-color: hsl(220deg 13% 13%);
+  background-color: hsl(225, 3%, 28%);
   color: white;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #afb6b7;
 }
 
 @keyframes App-logo-spin {
